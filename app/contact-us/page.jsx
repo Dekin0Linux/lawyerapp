@@ -14,6 +14,18 @@ function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     console.log(email, name, msg);
+    const response = await fetch('/api/sendEmail', {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json'
+      },
+      body: JSON.stringify({
+        email,
+        name,
+        msg
+      })
+    })
+    console.log(await response.json())
 
   };
 
