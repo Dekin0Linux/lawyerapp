@@ -2,7 +2,7 @@ import React from 'react'
 
 function Organization() {
   return (
-    <div className="bg-slate-200 md:h-[40vh]">
+    <div className="bg-slate-200 md:h-[30vh]">
       <div className="md:container mx-auto p-10">
         <h3 className="md:text-4xl text-xl text-center leading-loose">The Esteemed Legal Practise That Directs TheFuture</h3>
 

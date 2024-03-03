@@ -9,12 +9,12 @@ function Hero() {
         <div className='animate__animated animate__bounceIn'>
           <Image src={'/images/lawyerImg.png'} width={1000} height={1000} />
         </div>
-        <div className='md:flex flex-wrap gap-5 md:text-lg font-light'>
-          <p>
-            <a href="mailto:lawrichardharris@gmail.com">lawrichardharris@gmail.com</a>
+        <div className='md:flex gap-5 md:text-lg font-light text-center text-white'>
+          <p className='p-0 m-0'>
+            <a href="mailto:lawrichardharris@gmail.com" className='text-white'>lawrichardharris@gmail.com</a>
           </p>
-          <p>
-            <a href="tel:+9177930837">9177930837</a>
+          <p className='p-0 m-0'>
+            <a href="tel:9177930837" className='text-white'>(917) 793 0837</a>
           </p>
         </div>
       </div>

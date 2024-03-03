@@ -12,7 +12,7 @@ export async function POST(request) {
             secure: true,
             auth: {
                 user: 'lawrichardharris@gmail.com',
-                pass: 'mvrnwgjqsvjinklw'
+                pass: process.env.EMAIL_PASSCODE
             }
         })
 
