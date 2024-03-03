@@ -13,25 +13,8 @@ function Contact() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log(email, name, msg);
 
-    // try {
-    //   const response = await fetch('/api/mailer', {
-    //     method: 'POST',
-    //     headers: {
-    //       'Content-Type': 'application/json',
-    //     },
-    //     body: JSON.stringify({ email, name, msg }),
-    //   });
-
-    //   if (response.ok) {
-    //     console.log('Email sent successfully');
-    //     // Reset form fields if needed
-    //   } else {
-    //     console.error('Failed to send email', response);
-    //   }
-    // } catch (error) {
-    //   console.error('Error sending email:', error);
-    // }
   };
 
 
