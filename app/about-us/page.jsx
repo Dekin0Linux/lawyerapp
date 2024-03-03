@@ -37,7 +37,7 @@ function About() {
         </div>
 
         <div>
-          <marquee>1111111111111</marquee>
+          {/* <marquee>1111111111111</marquee> */}
         </div>
       </div>
       

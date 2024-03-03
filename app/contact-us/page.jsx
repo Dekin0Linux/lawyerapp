@@ -92,7 +92,7 @@ function Contact() {
         </div>
       </div>
       <div className="bg-gray-100">
-        Map
+        
       </div>
       <Footer />
 
