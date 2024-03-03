@@ -2,13 +2,13 @@
 
 import Nav from '../components/home/Nav'
 import { Accordion, Placeholder } from 'rsuite';
-import { useSearchParams } from 'next/navigation'
+// import { useSearchParams } from 'next/navigation'
 import Footer from '../components/Footer';
-import { Suspense } from 'react';
+
 
 function Service() {
-    const searchParams = useSearchParams()
-    const id = searchParams.get('id')
+    // const searchParams = useSearchParams()
+    const id =  1  // searchParams.get('id')
 
   return (
     <div>
