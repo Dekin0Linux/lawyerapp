@@ -25,6 +25,7 @@ function Contact() {
         msg
       })
     })
+    al
     console.log(await response.json())
 
   };
