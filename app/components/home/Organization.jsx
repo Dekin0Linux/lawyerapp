@@ -12,20 +12,16 @@ function Organization() {
             <p className="font-semibold">Satisfied Clients</p>
           </div>
           <div className="text-center">
-            <p className=" text-center text-5xl font-bold italic text-gray-700">50+</p>
-            <p className="font-semibold">Satisfied Clients</p>
+            <p className=" text-center text-5xl font-bold italic text-gray-700">40+</p>
+            <p className="font-semibold">Total Cases Won</p>
           </div>
           <div className="text-center">
-            <p className=" text-center text-5xl font-bold italic text-gray-700">50+</p>
-            <p className="font-semibold">Satisfied Clients</p>
+            <p className=" text-center text-5xl font-bold italic text-gray-700">32+</p>
+            <p className="font-semibold">Specialized Lawyers</p>
           </div>
           <div className="text-center">
-            <p className=" text-center text-5xl font-bold italic text-gray-700">50+</p>
-            <p className="font-semibold">Satisfied Clients</p>
-          </div>
-          <div className="text-center">
-            <p className=" text-center text-5xl font-bold italic text-gray-700">50+</p>
-            <p className="font-semibold">Satisfied Clients</p>
+            <p className=" text-center text-5xl font-bold italic text-gray-700">46</p>
+            <p className="font-semibold">Years of Experience</p>
           </div>
 
         </div>

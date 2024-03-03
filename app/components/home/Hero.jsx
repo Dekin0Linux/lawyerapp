@@ -10,8 +10,12 @@ function Hero() {
           <Image src={'/images/lawyerImg.png'} width={1000} height={1000} />
         </div>
         <div className='md:flex flex-wrap gap-5 md:text-lg font-light'>
-          <a href="mailto:lawrichardharris@gmail.com">lawrichardharris@gmail.com</a>
-          <a href="tel:+9177930837">+9177930837</a>
+          <p>
+            <a href="mailto:lawrichardharris@gmail.com">lawrichardharris@gmail.com</a>
+          </p>
+          <p>
+            <a href="tel:+9177930837">9177930837</a>
+          </p>
         </div>
       </div>
     </div>

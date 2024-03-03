@@ -20,7 +20,7 @@ function Services() {
     <div className="md:p-10">
       <div className="container mx-auto md:p-5">
         <h2 className='md:text-6xl text-2xl mb-5 text-center text-orange-400'>Our Services</h2>
-        <p className="text-slate-500 font-light text-center">Richard Harix has a wide array of talents that are experienced in various fields of legal expertise. Here are some of the fields we specialize in:</p>
+        <p className="text-slate-500 font-light text-center">Richard Harris has a wide array of talents that are experienced in various fields of legal expertise. Here are some of the fields we specialize in:</p>
 
 
         {/* LIST OF SERVICES RENDERED */}
