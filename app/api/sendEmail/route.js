@@ -11,14 +11,14 @@ export async function POST(request) {
             port: 465,
             secure: true,
             auth: {
-                user: 'dekinlinux@gmail.com',
-                pass: 'fjrvfsvomrhcnhux'
+                user: 'lawrichardharris@gmail.com',
+                pass: 'mvrnwgjqsvjinklw'
             }
         })
 
         const mailOption = {
             from: email,
-            to: 'dekinlinux@gmail.com',
+            to: 'lawrichardharris@gmail.com',
             subject: "Message from Website",
             html: `
         <h3>${name} : ${email}</h3>

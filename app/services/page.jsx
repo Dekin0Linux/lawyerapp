@@ -1,6 +1,5 @@
 'use client'
 
-import React from 'react'
 import Nav from '../components/home/Nav'
 import { Accordion, Placeholder } from 'rsuite';
 import { useSearchParams } from 'next/navigation'
@@ -8,10 +7,8 @@ import Footer from '../components/Footer';
 import { Suspense } from 'react';
 
 function Service() {
-  const searchParams = useSearchParams()
-
-  const id =  searchParams.get('id')
-
+    const searchParams = useSearchParams()
+    const id = searchParams.get('id')
 
   return (
     <div>
@@ -24,7 +21,7 @@ function Service() {
 
       {/* section */}
       <div className="md:container mx-auto md:p-10 p-5">
-        <Suspense fallback={<div>Loading...</div>}>
+        
         <Accordion defaultActiveKey={+id} bordered>
           <Accordion.Panel header="Bankruptcy Law" id='data' eventKey={1} >
             <p className='p-2 bg-gray-500 text-white md:text-xl'>Expert guidance and representation for individuals and businesses navigating bankruptcy proceedings, debt restructuring, and financial reorganization.</p>
@@ -63,11 +60,9 @@ function Service() {
             <p className='p-2 bg-gray-500 text-white md:text-xl'>Guidance on mining regulations, permitting, land acquisition, mineral rights, environmental compliance, and contractual negotiations for mining operations and projects.</p>
           </Accordion.Panel>
         </Accordion>
-        </Suspense>
+      
       </div>
-
       <Footer/>
-
     </div>
   )
 }

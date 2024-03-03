@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Suspense } from 'react'
 import Hero from './components/home/Hero'
 import Nav from './components/home/Nav'
 import About from './components/home/About'
@@ -12,7 +12,9 @@ function page() {
       <Nav/>
       <Hero/>
       <About/>
-      <Services/>
+      <Suspense fallback={<div>Loading...</div>}>
+        <Services/>
+      </Suspense>
       <Organization/>
       <Footer/>
     </div>
