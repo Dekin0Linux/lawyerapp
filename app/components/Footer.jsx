@@ -24,7 +24,7 @@ function Footer() {
         <div>
 
         </div>
-        <p className='text-center font-light italic'>© Law Firm, Richard Harris Advocates & Legal Consultants 2024</p>
+        <p className='text-center font-light italic'>© Law Firm, Richard Harris Advocates & Legal Consultants 2004 - 2024</p>
       </div>
 
     </div>
