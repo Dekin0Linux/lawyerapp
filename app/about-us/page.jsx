@@ -30,7 +30,10 @@ function About() {
                 The firm maintains its commitment to provide the best legal advice and representation for its clients, utilising nearly 46 years of legal expertise and experience to offer the most efficient solutions to legal and bureaucratic obstacles to foreign investors and local businesses alike.
                 </p><br />
                 <p className="text-xl leading-loose text-gray-500">
-                As an established firm in United Kingdom legal world, Richard Harris cooperates with numerous legal organizations and associations around the world. Ensuring that our firm is always up-to-date with the latest reports regarding government policy, amendments to existing regulations, and the state of United Kingdom judicial system.
+                As an established firm in United Kingdom legal world, Richard Harris cooperates with numerous legal organizations and associations around the world. Ensuring that our firm is always up-to-date with the latest reports regarding government policy, amendments to existing regulations, and the global judicial system.
+                </p>
+                <p className="text-xl leading-loose text-gray-500">
+                Sometimes those steps lead to administrative proceedings or litigation, and as a member of the firm’s litigation practice, he is well equipped to represent clients when a matter gets there. He has handled every stage of civil litigation across a wide range of subject matters and has tried multiple cases to verdict before judges and juries.
                 </p>
             </div>
           </div>

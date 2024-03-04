@@ -48,14 +48,14 @@ function Contact() {
       <div className="md:container mx-auto md:p-10 p-5">
         <div className="md:flex ">
           <div className="flex-1">
-            <div className="md:my-10">
+            <div className="md:my- my-5">
               <h2 className="md:text-6xl font-normal text-2xl text-blue-500 leading-snug">Location</h2>
               <p className="font-light md:text-lg text-slate-400">
-                Address : 2 Warner Pl, London E8 7DA, UK
+                Address : 2 Warner Pl, London E8 7DA,
               </p>
             </div>
 
-            <div className="md:my-10">
+            <div className="md:my-10 my-5">
               <h2 className="md:text-6xl font-normal text-2xl text-blue-500 leading-snug">Contact Info</h2>
               <div>
                 <p className="font-light md:text-lg text-slate-400">Mail: lawrichardharris@gmail.com</p>
@@ -65,7 +65,7 @@ function Contact() {
               </div>
             </div>
 
-            <div className="md:my-10">
+            <div className="md:my-10 my-5">
               <h2 className="md:text-6xl font-normal text-2xl text-blue-500 leading-snug">Working Days</h2>
               <p className="font-light md:text-lg text-slate-400 my-2">
                 Mon - Fri: 08:00 - 17:00 (GMT+7)

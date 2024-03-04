@@ -18,7 +18,7 @@ function Footer() {
         </div>
         <div className='text-lg text-center my-2'>
           <hr />
-          <p>Address : 2 Warner Pl, London E8 7DA, UK</p>
+          <p>Address : 2 Warner Pl, London E8 7DA</p>
         </div>
         {/* address */}
         <div>
