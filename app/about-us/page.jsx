@@ -24,7 +24,7 @@ function About() {
             <div>
               <p className="text-xl leading-loose text-gray-500">Richard Harris
                  Advocates & Legal Consultants was established in 1978
-                by Richard Harris, in order to provide quality solutions for commercial and corporate legal issues. The firm since has expanded to legal experts from various fields of legal expertise such as bankruptcy law, litigation & dispute resolution, maritime law, real estate & property law, foreign invesment assistance, banking & financial law and intellectual property law. Richard Harris has since became a leading legal firm in United Kingdom in handling corporate and commercial cases.</p>
+                by Richard Harris, in order to provide quality solutions for commercial and corporate legal issues. The firm since has expanded to legal experts from various fields of legal expertise such as bankruptcy law, litigation & dispute resolution, maritime law, real estate & property law, foreign invesment assistance, banking & financial law and intellectual property law. Richard Harris has since became a leading legal firm globally in handling corporate and commercial cases.</p>
                 <br />
                 <p className="text-xl leading-loose text-gray-500">
                 The firm maintains its commitment to provide the best legal advice and representation for its clients, utilising nearly 46 years of legal expertise and experience to offer the most efficient solutions to legal and bureaucratic obstacles to foreign investors and local businesses alike.

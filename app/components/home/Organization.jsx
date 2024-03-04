@@ -8,11 +8,11 @@ function Organization() {
 
         <div className="flex flex-wrap gap-5 justify-between mt-10">
           <div className="text-center">
-            <p className=" text-center text-5xl font-bold italic text-gray-700">50+</p>
+            <p className=" text-center text-5xl font-bold italic text-gray-700">150+</p>
             <p className="font-semibold">Satisfied Clients</p>
           </div>
           <div className="text-center">
-            <p className=" text-center text-5xl font-bold italic text-gray-700">40+</p>
+            <p className=" text-center text-5xl font-bold italic text-gray-700">120+</p>
             <p className="font-semibold">Total Cases Won</p>
           </div>
           <div className="text-center">
